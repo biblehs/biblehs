@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biblehs
 - 👀 Nothing here ...
 - 🌱 I’m not a coder ...
-- 📫 Reach me at hanshuo567899@gmail.com
+- 📫 Reach me out hanshuo567899@gmail.com
 
 <!---
 biblehs/biblehs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
